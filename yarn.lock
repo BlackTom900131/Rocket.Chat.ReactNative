@@ -7636,12 +7636,10 @@ expo-image-picker@14:
   dependencies:
     expo-image-loader "~4.6.0"
 
-expo-image@1.10.6:
-  version "1.10.6"
-  resolved "https://registry.yarnpkg.com/expo-image/-/expo-image-1.10.6.tgz#b0e54d31d97742505296c076a5f18d094ba9a8cc"
-  integrity sha512-vcnAIym1eU8vQgV1re1E7rVQZStJimBa4aPDhjFfzMzbddAF7heJuagyewiUkTzbZUwYzPaZAie6VJPyWx9Ueg==
-  dependencies:
-    "@react-native/assets-registry" "~0.73.1"
+expo-image@2.1.7:
+  version "2.1.7"
+  resolved "https://registry.yarnpkg.com/expo-image/-/expo-image-2.1.7.tgz#c64cf29363c87762c9f4b16a016a59ac15998bc2"
+  integrity sha512-p2Gr8fP/YakFHHo4rbpJbRWwKNrZp1GzSD91WEG3ZYAbTVdTjheJ6gUxXgggFaxEbaY+4WeQ0c5j9tZq8+3cEg==
 
 expo-keep-awake@^12.8.2, expo-keep-awake@~12.8.2:
   version "12.8.2"
