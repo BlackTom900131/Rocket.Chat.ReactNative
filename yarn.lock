@@ -7674,10 +7674,10 @@ expo-modules-core@1.11.12:
   dependencies:
     invariant "^2.2.4"
 
-expo-video-thumbnails@^7.9.0:
-  version "7.9.0"
-  resolved "https://registry.yarnpkg.com/expo-video-thumbnails/-/expo-video-thumbnails-7.9.0.tgz#7ec03759ae169a9a585d94b15c9de96dffae8851"
-  integrity sha512-KP7ZlIu83xXXIFx24bzjScwLns6b93f3eHPDUOnT5UtOScbIV3guXA6P9pRBnyxJe0K5+NhR11wX1wf+QCk9+g==
+expo-video-thumbnails@^10.0.7:
+  version "10.0.7"
+  resolved "https://registry.yarnpkg.com/expo-video-thumbnails/-/expo-video-thumbnails-10.0.7.tgz#709c0a04588a08e5ae7591c4b926993d04c9dea5"
+  integrity sha512-pPZr2xq2DALWwZC/7M/OlIfVTAXXIFtEVvtE6BLqrtnDvlFNFvitItmsQ+Y483KS0LyMEAVrHVFVP4cIvVb9UQ==
 
 expo-web-browser@^12.8.2:
   version "12.8.2"
